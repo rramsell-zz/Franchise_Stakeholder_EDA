@@ -15,11 +15,12 @@
 
 Shakes
 
-**2) Which location is the busiest? Does the answer to this question change throughout the day?
-**
-State Street is the business location. The following visualizations will demonstrate that State Stret's sales are higher. It should be noted that the winner for busiest hour does trade off three times per day at/around hours 11am, 4pm, and 9pm.
+**2) Which location is the busiest? Does the answer to this question change throughout the day?**
 
-The order of visualizations which follow are:
+State Street is the busiest location. The following visualizations will demonstrate that State Streeet's sales are higher. It should be noted that the winner for busiest hour does trade off three times per day at/around hours 11am, 4pm, and 9pm.
+
+**The order of visualizations which follow are:**
+
 A) Historical Daily Sales Trend
 
 B) Historical Hourly Sales Trend
